@@ -1,0 +1,66 @@
+.navbar {
+	  background-color:;
+	  display:flex;
+	  justify-content: space-between;
+	  
+	 
+	  
+}
+.navhome {
+	
+	 display: inline-block;
+	 justify-content: space-between;
+	 height:; 
+	 padding-top:25px;
+	 padding-bottom:25px;
+	 width:20%;
+	 text-align:center;
+	 font-family: Tahoma, sans-serif;
+	 }
+
+.navproducts {
+	display: inline-block;
+	justify-content: space-between;
+	padding-top:25px;
+	padding-bottom:25px;
+	width:20%;
+	vertical-align:center;
+	text-align:center;
+	font-family: Tahoma, sans-serif;
+	}
+
+.navcontactus {
+	
+	display: inline-block;
+	justify-content: space-between;
+	padding-top:25px;
+	padding-bottom:25px;
+	width:20%;
+	vertical-align:center;
+	text-align:center;
+	font-family: Tahoma, sans-serif;
+}
+
+.navveg {
+	display: inline-block;
+	justify-content: space-between;
+    padding-top:25px;
+	padding-bottom:25px;
+	width:20%;
+	vertical-align:center;
+	text-align:center;
+	font-family: Tahoma, sans-serif;
+}
+
+.navaboutus {
+	display: inline-block;
+	justify-content: space-between;
+    padding-top:25px;
+	padding-bottom:25px;
+	width:20%;
+	vertical-align:center;
+	text-align:center;
+	font-family: Tahoma, sans-serif;
+}
+.ahover:hover +.navhome {}
+

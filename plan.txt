@@ -1,0 +1,48 @@
+<----!TO DO LIST --->
+
+1. Build the project
+   - Creating folder structure 
+   - Adding files 
+   - Connecting Files
+   
+2. Navbar
+   - Titles
+   - Links 
+   -Hover images
+
+3. Build out homepage 
+
+  - Images 
+  - Descirptions
+  - Links 
+  - Formatting 
+  - JS ?
+
+4. Products page
+
+   - Content
+   - Drop down select from navbar
+   -  caterogries (sub pages) 
+   - Ability to link to a basket?
+
+5. Go Vegan Page.
+
+   - Content 
+   - Links    
+   - Pictures
+   - Formatting
+   
+6. About us page 
+
+   - Content
+   - Pictures 
+   - Formatting 
+   - Waffle
+   
+7. Gallery ? Contact us ? Community page? Charity 
+
+ 
+   - Source media
+   - Fomrating 
+   - Layout
+   - Content? 
